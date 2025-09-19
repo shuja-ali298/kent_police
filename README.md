@@ -43,7 +43,8 @@ The task also showcased **domain immersion**, combining statistical analysis wit
 ---
 
 ## ⚠️ Limitations  
-- Police.UK data is **based on recorded incidents**, which may underreport actual ASB due to variation in reporting behaviour and recording practices.  
+- Police.UK data is **based on recorded incidents**, which may underreport actual ASB due to variation in reporting behaviour and recording practices.
+- No data/profile on **offender demographics** (e.g. age, gender, ethnicity, education, employment); cannot confirm whether ASB comes from the youth.
 - **Population denominators** use mid-2023 estimates, not dynamically updated yearly figures.  
 - Analysis relied on **observational data only**, with no experimental evidence of causal drivers.  
 - Hotspot identification highlights relative concentrations but **does not explain underlying causes**.  
